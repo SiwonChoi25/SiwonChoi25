@@ -38,8 +38,4 @@ Here are some ideas to get you started:
 <!-- | [Momukji](https://github.com/...) | Sui 기반 랜덤 음식 추천 dApp | Blockchain Developer | React, Sui, NFT |
 | [공연한걸음](https://github.com/...) | 공연장 접근성 기반 공연 탐색 플랫폼 | PM & Backend | Next.js, FastAPI, PostgreSQL, GPT API | -->
 
-## GitHub Stats
-
-<!-- ![SIWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiwonChoi25&show_icons=true&title_color=1E90FF&icon_color=1E90FF) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiwonChoi25&layout=compact)
 
